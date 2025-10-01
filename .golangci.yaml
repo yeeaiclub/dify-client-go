@@ -68,4 +68,4 @@ formatters:
   settings:
     goimports:
       local-prefixes:
-        - github.com/yeeaiclub/dify-client-go
+        - github.com/yeeaiclub/agentx

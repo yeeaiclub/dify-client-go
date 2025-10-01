@@ -1,3 +1,3 @@
-module github.com/yeeaiclub/dify-client-go
+module github.com/yeeaiclub/agentx
 
 go 1.24.1

@@ -1,7 +1,6 @@
-# Dify Client for Go
+# Agentx
 
-一个用于与Dify API交互的Go客户端库，提供简洁易用的接口来访问Dify的各种功能。
-
+使用 Go 语言打造的 Agent SDK
 
 ## 许可证
 
